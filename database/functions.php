@@ -1,4 +1,4 @@
-<?php require  '.\sanitize.php';?>
+<?php require './sanitize.php';?>w
 <?php
 
 //Kollar om man är inloggad

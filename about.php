@@ -1,5 +1,5 @@
 <?php
-include '/database/init.php';
+include 'database/init.php';
 if (empty($_POST) === false) {
     $error = array();
     
