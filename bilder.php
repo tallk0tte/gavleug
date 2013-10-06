@@ -1,6 +1,6 @@
 
 
-﻿<?php include '/database/init.php'; ?>
+﻿<?php include 'database/init.php'; ?>
 <!DOCTYPE html>
 <html>
     <head>
